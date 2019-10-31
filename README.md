@@ -25,7 +25,7 @@ In the **/src/styles/variables.styl** file, the candidate can find a list of var
 
 <a name="usecase"></a>
 ## 3. Use Case
-The candidate is asked to design a UI for a **Security Administrator** persona. This user is responsible for managing the access rights of the users to the different applications of the platform:
+The candidate is asked to design a UI for a **Security Administrator** persona. This user is responsible for managing the access rights of the users to the different applications of a **Platform**:
 * The **Platform** is formed by multiple applications called **Consumers**.
 * Each **Consumer** has a list of **Permissions**.
 * One or multiple **Permissions** on a given **Consumer** can be assigned to a **Role**.
