@@ -1,11 +1,11 @@
 # 1E UX/UI Assessment
 This repository contains all the instructions and boilerplate code for the development of the assessment for the UI/UX developer/designer position at 1E.
 
-1. [ Introduction. ](#intro)
-2. [ Boilerplate Code. ](#boilerplate)
-3. [ Use Case. ](#usecase)
-4. [ Evaluation. ](#evaluation)
-5. [ Comments. ](#comments)
+1. [ Introduction ](#intro)
+2. [ Boilerplate Code ](#boilerplate)
+3. [ Use Case ](#usecase)
+4. [ Evaluation ](#evaluation)
+5. [ Comments ](#comments)
 
 <a name="intro"></a>
 ## 1. Introduction
