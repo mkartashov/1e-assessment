@@ -3,7 +3,8 @@ This repository contains all the instructions and boilerplate code for the devel
 
 1. [ Introduction. ](#intro)
 2. [ Boilerplate Code. ](#boilerplate)
-3. [ Evaluation. ](#evaluation)
+3. [ Use Case. ](#usecase)
+4. [ Evaluation. ](#evaluation)
 
 <a name="intro"></a>
 ## 1. Introduction
@@ -20,9 +21,7 @@ The assessment has to be developed using this repository as boilerplate code. Th
 
 The candidate can feel free to replace, include, exclude or upgrade any dependencies as far as the project is written in **ES6** and **React**.
 
-<<<<<<< HEAD
-=======
-<a name="requirements"></a>
+<a name="usecase"></a>
 ## 3. Use Case
 The candidate is asked to design a UI for a **Security Administrator** persona. This user is responsible for managing the access rights of the users of the system to the different applications of the platform:
 * The **Platform** is formed by multiple applications called **Consumers** (C).
@@ -31,12 +30,11 @@ The candidate is asked to design a UI for a **Security Administrator** persona. 
 * Each **User** can be part of one or multiple **Roles**.
 * Each **Role** can group one or multiple **Users**.
 
-
+```
 User <==> Role <==> Permission <==> Consumer
-
->>>>>>> e3a70dd575d4af8c198034b397e8170663b40d49
+```
 <a name="evaluation"></a>
-## 3. Evaluation
+## 4. Evaluation
 * Organisation and modularity of the code.
 * UX design solving the use cases provided for the given persona.
 * UI design according to design guidelines, matching the given examples as much as possible.
