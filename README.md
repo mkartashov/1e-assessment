@@ -5,6 +5,7 @@ This repository contains all the instructions and boilerplate code for the devel
 2. [ Boilerplate Code. ](#boilerplate)
 3. [ Use Case. ](#usecase)
 4. [ Evaluation. ](#evaluation)
+5. [ Comments. ](#comments)
 
 <a name="intro"></a>
 ## 1. Introduction
@@ -21,7 +22,8 @@ The assessment has to be developed using this repository as boilerplate code. Th
 
 The candidate can feel free to replace, include, exclude or upgrade any dependencies as far as the project is written in **ES6** and **React**.
 
-In the **/src/styles/variables.styl** file, the candidate can find a list of variables that are part of the basic 1E design guideline that have to be used as a reference on this assessment.
+* In the **/src/assets** folder, multiple screenshots of components have been provided for the candidate to be able to extract design patterns and apply them to the prototype.
+* In the **/src/styles/variables.styl** file, the candidate can find a list of variables that are part of the basic 1E design guideline that have to be used as a reference on this assessment.
 
 <a name="usecase"></a>
 ## 3. Use Case
@@ -49,13 +51,16 @@ User <==> Role <==> Permission <==> Consumer
 
 <a name="evaluation"></a>
 ## 4. Evaluation
-* Organisation and modularity of the code.
+The candidate is asked to implement an **interactive prototype** built on **React** that is capable of fulfilling the requirements listed on section 3 and a report/comments that explain the user flow. **1E** will receive a link to the **Git** repository that hosts the assessment.
+
+The following aspects will be taken into consideration for the assessment:
 * UX design solving the use cases provided for the given persona.
+* Organisation and modularity of the code.
+* ES6 and React usage skills.
 * UI design according to design guidelines, matching the given examples as much as possible.
 * Size of the final bundle (additional dependencies included in the bundle).
-* ES6 and React usage skills.
 
-Any instructions or comments about the implementation have to be included in this **README.md** file.
+Any instructions or comments about the implementation have to be included in the following **Candidate Comments** section of this **README.md** file.
 
-
+<a name="comments"></a>
 ## Candidate Comments ##
