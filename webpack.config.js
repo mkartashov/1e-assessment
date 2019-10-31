@@ -11,7 +11,7 @@ module.exports = {
   entry: './src/index.js',
   output: {
     path: path.resolve(__dirname, 'dist'),
-    filename: 'codenify.bundle.js'
+    filename: '1e.bundle.js'
   },
   module: {
     rules: [
@@ -64,6 +64,6 @@ module.exports = {
   devServer: {
     contentBase: path.join(__dirname, 'dist'),
     compress: true,
-    port: 9000
+    port: 8080
   }
 };
