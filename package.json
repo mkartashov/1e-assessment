@@ -1,7 +1,7 @@
 {
-  "name": "codenify",
+  "name": "1e-ux-assessment",
   "version": "1.0.0",
-  "description": "Codenify Spain Website",
+  "description": "1E UI/UX Developer Assessment Boilerplate",
   "main": "index.js",
   "private": true,
   "scripts": {
@@ -23,9 +23,9 @@
   "author": "Alejandro Henriquez Luis",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/alejandroicod/codenify-web/issues"
+    "url": "https://github.com/alejandroicod/1e-assessment/issues"
   },
-  "homepage": "https://github.com/alejandroicod/codenify-web#readme",
+  "homepage": "https://github.com/alejandroicod/1e-assessment#readme",
   "dependencies": {
     "font-awesome": "^4.7.0",
     "react": "^16.8.4",
