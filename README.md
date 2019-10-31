@@ -21,18 +21,32 @@ The assessment has to be developed using this repository as boilerplate code. Th
 
 The candidate can feel free to replace, include, exclude or upgrade any dependencies as far as the project is written in **ES6** and **React**.
 
+In the **/src/styles/variables.styl** file, the candidate can find a list of variables that are part of the basic 1E design guideline that have to be used as a reference on this assessment.
+
 <a name="usecase"></a>
 ## 3. Use Case
-The candidate is asked to design a UI for a **Security Administrator** persona. This user is responsible for managing the access rights of the users of the system to the different applications of the platform:
-* The **Platform** is formed by multiple applications called **Consumers** (C).
-* Each **Consumer** has a list of **Permissions** assigned.
-* One or multiple **Permissions** on a **Consumer** can be assigned to a **Role**.
+The candidate is asked to design a UI for a **Security Administrator** persona. This user is responsible for managing the access rights of the users to the different applications of the platform:
+* The **Platform** is formed by multiple applications called **Consumers**.
+* Each **Consumer** has a list of **Permissions**.
+* One or multiple **Permissions** on a given **Consumer** can be assigned to a **Role**.
 * Each **User** can be part of one or multiple **Roles**.
 * Each **Role** can group one or multiple **Users**.
 
 ```
 User <==> Role <==> Permission <==> Consumer
 ```
+
+* **Security Administrator** should be able to:
+  * Create/Edit/Delete **Roles**
+  * Assign **Permissions** on a **Consumer** to **Roles**
+  * Assign **Users** to **Roles**
+
+* **Security Administrator** needs visibility of:
+  * From **Consumer** point of view
+    * **Permissions**, **Roles** and **Users** related to it (answering the question "**Who** can do **what** on a given **Consumer**?").
+  * From **User** point of view
+    * **Roles**, **Permissions** and **Consumers** related to it (answering the question "**What** can this **User** do on any **Consumer**?")
+
 <a name="evaluation"></a>
 ## 4. Evaluation
 * Organisation and modularity of the code.
