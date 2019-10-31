@@ -10,7 +10,7 @@ This repository contains all the instructions and boilerplate code for the devel
 The goal of this assessment is to evaluate the skills of the candidate on the creation of interactive prototypes (using a fixed list of provided libraries and frameworks) in order to solve certain use cases based on a list of requirements.
 
 <a name="boilerplate"></a>
-### 2. Boilerplate Code
+## 2. Boilerplate Code
 The assessment has to be developed using this repository as boilerplate code. The dependencies included in this project are:
 * **NPM** as a dependency manager.
 * **Webpack** as a module bundler.
@@ -19,6 +19,12 @@ The assessment has to be developed using this repository as boilerplate code. Th
 * **React** as a UI library.
 
 The candidate can feel free to replace or include any other dependencies as far as the project is written in **ES6** and **React**.
+
+This project can be executed by running 
+```bash
+$> npm run watch
+```
+
 
 <a name="evaluation"></a>
 ## 3. Evaluation
