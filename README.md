@@ -22,6 +22,13 @@ The candidate can feel free to replace or include any other dependencies as far 
 
 <a name="evaluation"></a>
 ## 3. Evaluation
-
 * Organisation and modularity of the code.
+* UX design solving the use cases provided for the given persona.
+* UI design according to design guidelines, matching the given examples as much as possible.
 * Size of the final bundle.
+* ES6 and React usage skills.
+
+Any instructions or comments about the implementation have to be included in this **README.md** file.
+
+
+## Candidate Comments ##
