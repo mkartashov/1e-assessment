@@ -20,12 +20,6 @@ The assessment has to be developed using this repository as boilerplate code. Th
 
 The candidate can feel free to replace or include any other dependencies as far as the project is written in **ES6** and **React**.
 
-This project can be executed by running 
-```bash
-$> npm run watch
-```
-
-
 <a name="evaluation"></a>
 ## 3. Evaluation
 * Organisation and modularity of the code.
