@@ -28,6 +28,7 @@
   "homepage": "https://github.com/alejandroicod/1e-assessment#readme",
   "dependencies": {
     "font-awesome": "^4.7.0",
+    "primereact": "^3.3.3",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
     "react-router": "^5.0.0",
